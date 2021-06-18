@@ -1,0 +1,82 @@
+.orange-box{
+width: 270px;
+height: 400px;
+background-color:  hsl(31, 77%, 52%);
+display: inline-block;
+position: relative;
+left: 90px;
+top: 50px;
+
+
+}
+
+.cyan-box{
+width: 270px;
+height: 400px;
+background-color: hsl(184, 100%, 22%);
+display:inline-block;
+position: relative;
+left: 85px;
+top: 50px;
+}
+
+.dark-cyan-box{
+    width: 270px;
+    height: 400px;
+    background-color:  hsl(179, 100%, 13%);
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    top: 50px;
+}
+
+.main-box{
+    background-color:  hsla(0, 16%, 91%, 0.75);
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    left: 270px;
+    top: 100px;
+}
+
+h2{
+    font-family: 'Big Shoulders display';
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 30px;
+    top: 25px;
+}
+
+p{
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    color: hsla(0, 16%, 91%, 0.75);
+    position: relative;
+    left: 30px;
+    top: 30px;
+
+}
+
+img{
+    width: 40px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+h1{
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    text-align: center;
+    color: hsla(0, 16%, 91%, 0.75);
+    padding: 10px;
+    position: relative;
+    left: 30px;
+    top: 70px;
+    border: solid;
+    border-radius: 30px ;
+    height: 15px;
+    width: 100px;
+}
+
